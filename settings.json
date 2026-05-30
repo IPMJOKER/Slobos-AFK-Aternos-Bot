@@ -8,7 +8,7 @@
   "server": {
     "ip": "servidor_vanilla123.aternos.me",
     "port": 46022,
-    "version": "",
+    "version": "1.15.2",
     "try-creative": false
   },
   "position": {
